@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumitra Thawani</h1>
-<p align="center">I am BCA(Bachelor Of Computer Application) graduate student.I'm passionate and self-motivated girl and enthusiastically keen to learn and explore new things.open up to new learning experiences and develop my knowledge and skills.</p>
+<p align="center">I am BCA(Bachelor Of Computer Application) graduate student.A passionate and self-motivated girl,enthusiastically keen to learn and explore new things.open up to new learning experiences and develop my knowledge and skills.</p>
 
 
 
