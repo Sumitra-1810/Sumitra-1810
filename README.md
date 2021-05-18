@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sumitra Thawani</h1>
-<p align="center">I am BCA(Bachelor Of Computer Application) graduate student.A passionate and self-motivated girl,enthusiastically keen to learn and explore new things.open up to new learning experiences and develop my knowledge and skills.</p>
+<h1 align="center">Hi there 👋</h1>
+<p align="center">I am BCA(Bachelor Of Computer Application) graduate.A passionate and self-motivated girl,enthusiastically keen to learn and explore new things.</p>
 
 
-
-- 🌱 I’m currently learning **React js ,Node js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sumitra-1810?tab=repositories](https://github.com/Sumitra-1810?tab=repositories)
+- 🌱 I’m currently learning **React js,Node js**
 
 - 📫 How to reach me **sumitrathawani899@gmail.com**
 
