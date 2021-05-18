@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="left">Hi there 👋</h1>
 <p align="center">I am BCA(Bachelor Of Computer Application) graduate.A passionate and self-motivated girl,enthusiastically keen to learn and explore new things.</p>
 
 
