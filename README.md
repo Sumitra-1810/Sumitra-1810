@@ -16,11 +16,12 @@ A Full Stack Web developer🎯 from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-
-![Sumitra's github stats](https://github-readme-stats.vercel.app/api?username=sumitrathawani1810&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitrathawani1810&theme=tokyonight&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=sumitrathawani1810)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sumitra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitrathawani1810&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+<hr/>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
