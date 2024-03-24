@@ -2,7 +2,7 @@
 A Full Stack Web developer🎯 from India.
 
 - 👨‍💻 Full Stack MERN Developer
-- 🌱 Currently learning ReactJs, NodeJs, Rust, and Python
+- 🌱 Currently learning Angular and Rust
 - 📚 What do I believe? Jack of all, Master of some.
 - 📫 How to reach me: sumitrathawani899@gmail.com , [Linkedin](https://www.linkedin.com/in/sumitra-thawani/).
 
