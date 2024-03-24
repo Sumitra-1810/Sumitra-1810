@@ -18,7 +18,7 @@ A Full Stack Web developer🎯 from India.
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sumitra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitrathawani1810&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sumitra's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitrathawani&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 <hr/>
@@ -31,4 +31,4 @@ A Full Stack Web developer🎯 from India.
 <a href="mailto:sumitrathawani899@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sumitrathawani899@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
- <!--⭐️ From [Sumitra Thawani](https://github.com/sumitrathawani1810)-->
+ <!--⭐️ From [Sumitra Thawani](https://github.com/sumitrathawani)-->
